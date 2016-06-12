@@ -1,0 +1,4 @@
+insert into customer values (1, 'candy', 1000);
+insert into customer values (999, 'mandy', 3000);
+insert into customer values (9, 'sandy', 1000);
+insert into customer values (-3, 'handy', -6);
