@@ -1,5 +1,12 @@
 package model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class CustomerAL {
-	private String first_name;
+	private List<Customer> customers;
+	
+	public CustomerAL(){
+		customers = new ArrayList<>();
+	}
 }
